@@ -3,10 +3,10 @@ A simple category that adds a transparent overlay and indicator to any view of a
 
 ###Usage:
 ```objective-c
-	#import "UIView+ProgressIndicator.h"
+#import "UIView+ProgressIndicator.h"
 
-	...
+...
 
-	[myView addProgressIndicatorView];
-'''
+[myView addProgressIndicatorView];
+```
 
